@@ -40,13 +40,13 @@
 
     <nav>
         <!-- Agrega enlaces a las secciones de tu página -->
-        <a href="#quienessomos">Quiénes Somos</a>
-        <a href="#servicios">Servicios</a>
+        <a href="#quienessomos">DIRECCION</a>
+        <a href="#servicios">REDES</a>
         <a href="#contacto">Contacto</a>
     </nav>
 
-    <section id="quienessomos">
-        <h2>Quiénes Somos</h2>
+    <section id="DIRECCION">
+        <h2>CALLE 3 DE MAYO FRACCIONAMIENTO LA UNION
         <p>Descripción de tu empresa o proyecto.</p>
     </section>
 

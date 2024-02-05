@@ -33,10 +33,6 @@
             text-align: justify;
         }
     </style>
-</head>
-<body>
-
-
 
     <nav>
     

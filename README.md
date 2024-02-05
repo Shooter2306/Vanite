@@ -46,14 +46,14 @@
             background-color: #f0f0f0;
         }
 
-        header, footer {
+ header, footer {
             background-color: #333;
             color: #fff;
             text-align: center;
             padding: 1em;
         }
 
-        section {
+section {
             padding: 20px;
             margin: 20px;
             background-color: #fff;
@@ -61,12 +61,12 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
-        nav {
+ nav {
             background-color: #444;
             padding: 10px;
         }
 
-        nav a {
+ nav a {
             color: #fff;
             text-decoration: none;
             margin-right: 10px;

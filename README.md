@@ -1,13 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Página de Presentación</title>
 </head>
-<body>
-    <!-- Contenido de la página va aquí -->
-</body>
+
 </html>
 <body>
     <header>
@@ -33,15 +31,12 @@
 <body>
     <!-- ... (contenido anterior) -->
 
-    <nav>
+<nav>
         <ul>
-            <li><a href="#seccion1">Ir a Sección 1</a></li>
-            <li><a href="#seccion2">Ir a Sección 2</a></li>
-            <!-- Agregar más enlaces según sea necesario -->
-        </ul>
-    </nav>
-
-    <!-- ... (contenido posterior) -->
+             <li><a href="#contacto">Ir a CONTACTO </a></li>
+            <li><a href="#redes">Ir a REDES</a></li>
+            </ul>
+</nav>
 </body>
 <head>
     <!-- ... (contenido anterior) -->

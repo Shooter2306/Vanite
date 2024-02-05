@@ -14,11 +14,11 @@
         <!-- Contenido de la sección de inicio -->
     </section>
 
-    <section id="acerca">
+   <section id="acerca">
         <!-- Contenido de la sección acerca de nosotros -->
     </section>
 
-    <section id="contacto">
+   <section id="contacto">
         <!-- Contenido de la sección de contacto -->
     </section>
 </body>
@@ -31,15 +31,15 @@
         </ul>
     </nav>
 
-    <section id="inicio">
+   <section id="inicio">
         <!-- Contenido de la sección de inicio -->
     </section>
 
-    <section id="acerca">
+ <section id="acerca">
         <!-- Contenido de la sección acerca de nosotros -->
     </section>
 
-    <section id="contacto">
+  <section id="contacto">
         <!-- Contenido de la sección de contacto -->
     </section>
 </body>

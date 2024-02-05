@@ -1,10 +1,9 @@
 # Vanite
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página de Presentación</title>
+    <title>VANITE_I</title>
     <style>
         /* Agrega estilos opcionales para mejorar la apariencia de la página */
         body {

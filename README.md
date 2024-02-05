@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +33,7 @@
 
     <section id="direccion">
         <h2>Dirección</h2>
-        <p>123 Calle Principal, Ciudad, País</p>
+        <p>CALLE 3 DE MAYO FRACCIONAMIENTO LA UNION </p>
         <a href="#direccion">Volver arriba</a>
     </section>
 
@@ -42,7 +42,7 @@
         <ul>
             <li><a href="https://www.facebook.com/tuusuario" target="_blank">Facebook</a></li>
             <li><a href="https://www.twitter.com/tuusuario" target="_blank">Twitter</a></li>
-            <li><a href="https://www.instagram.com/tuusuario" target="_blank">Instagram</a></li>
+            <li><a href="https://www.instagram.com/vanite_j?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a></li>
         </ul>
         <a href="#redes">Volver arriba</a>
     </section>

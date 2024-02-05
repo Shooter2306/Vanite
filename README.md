@@ -12,24 +12,22 @@
         <h1>Mi Página de Presentación</h1>
     </header>
 
-    <section id="seccion1">
-        <h2>Sección 1</h2>
+ <section id="contacto">
+        <h2>CONTACTO</h2>
         <p>Contenido de la sección 1...</p>
     </section>
 
-    <section id="seccion2">
+<section id="seccion2">
         <h2>Sección 2</h2>
         <p>Contenido de la sección 2...</p>
     </section>
 
-    <!-- Agregar más secciones según sea necesario -->
-
-    <footer>
+<footer>
         <p>Pie de página</p>
     </footer>
 </body>
 <body>
-    <!-- ... (contenido anterior) -->
+    
 
 <nav>
         <ul>

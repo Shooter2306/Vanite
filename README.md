@@ -1,60 +1,59 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VANITE_I</title>
-    <style>
-        /* Agrega estilos opcionales para mejorar la apariencia de la página */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #333;
-            padding: 10px;
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-            padding: 10px 20px;
-            margin: 0 10px;
-        }
-        section {
-            max-width: 800px;
-            margin: 20px auto;
-            text-align: justify;
-        }
-    </style>
-
-    <nav>
-    
-        <a href="#DIRECCION">DIRECCION</a>
-        <a href="#REDES">REDES</a>
-        <a href="#CONTACTO">CONTACTO</a>
-    </nav>
-
-    <section id="DIRECCION">
-        <h2>CALLE 3 DE MAYO FRACCIONAMIENTO LA UNION
-    
-    </section>
-
-    <section id="REDES">
-        <h2>INSTAGRAM: </h2>
-  
-    </section>
-
-    <section id="CONTACTO">
-        <h2>Contacto</h2>
-    
-    </section>
+    <title>Página de Presentación</title>
+</head>
+<body>
 
 </body>
 </html>
+<body>
+    <section id="inicio">
+        <!-- Contenido de la sección de inicio -->
+    </section>
+
+    <section id="acerca">
+        <!-- Contenido de la sección acerca de nosotros -->
+    </section>
+
+    <section id="contacto">
+        <!-- Contenido de la sección de contacto -->
+    </section>
+</body>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#acerca">Acerca de nosotros</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section id="inicio">
+        <!-- Contenido de la sección de inicio -->
+    </section>
+
+    <section id="acerca">
+        <!-- Contenido de la sección acerca de nosotros -->
+    </section>
+
+    <section id="contacto">
+        <!-- Contenido de la sección de contacto -->
+    </section>
+</body>
+<section id="inicio">
+    <h1>Bienvenido a nuestra página</h1>
+    <p>¡Descubre todo sobre nosotros!</p>
+</section>
+
+<section id="acerca">
+    <h2>Acerca de nosotros</h2>
+    <p>Somos una empresa comprometida...</p>
+</section>
+
+<section id="contacto">
+    <h2>Contacto</h2>
+    <p>Puedes ponerte en contacto con nosotros...</p>
+</section>

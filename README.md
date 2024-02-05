@@ -1,26 +1,86 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página de Presentación</title>
+    <title>Mi Página de Presentación</title>
 </head>
 <body>
-
+    <!-- Contenido de la página va aquí -->
 </body>
 </html>
 <body>
-    <section id="inicio">
-        <!-- Contenido de la sección de inicio -->
+    <header>
+        <h1>Mi Página de Presentación</h1>
+    </header>
+
+    <section id="seccion1">
+        <h2>Sección 1</h2>
+        <p>Contenido de la sección 1...</p>
     </section>
 
-   <section id="acerca">
-        <!-- Contenido de la sección acerca de nosotros -->
+    <section id="seccion2">
+        <h2>Sección 2</h2>
+        <p>Contenido de la sección 2...</p>
     </section>
 
-   <section id="contacto">
-        <p>Puedes ponerte en contacto con nosotros al numero 9651174006</p>
-    </section>
+    <!-- Agregar más secciones según sea necesario -->
+
+    <footer>
+        <p>Pie de página</p>
+    </footer>
 </body>
+<body>
+    <!-- ... (contenido anterior) -->
+
+    <nav>
+        <ul>
+            <li><a href="#seccion1">Ir a Sección 1</a></li>
+            <li><a href="#seccion2">Ir a Sección 2</a></li>
+            <!-- Agregar más enlaces según sea necesario -->
+        </ul>
+    </nav>
+
+    <!-- ... (contenido posterior) -->
+</body>
+<head>
+    <!-- ... (contenido anterior) -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+
 
 

@@ -1,4 +1,4 @@
-# Vanite
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -36,9 +36,7 @@
 </head>
 <body>
 
-    <header>
-        <h1>Mi Página de Presentación</h1>
-    </header>
+
 
     <nav>
         <!-- Agrega enlaces a las secciones de tu página -->

@@ -39,25 +39,25 @@
 
 
     <nav>
-        <!-- Agrega enlaces a las secciones de tu página -->
-        <a href="#quienessomos">DIRECCION</a>
-        <a href="#servicios">REDES</a>
-        <a href="#contacto">Contacto</a>
+    
+        <a href="#DIRECCION">DIRECCION</a>
+        <a href="#REDES">REDES</a>
+        <a href="#CONTACTO">CONTACTO</a>
     </nav>
 
     <section id="DIRECCION">
         <h2>CALLE 3 DE MAYO FRACCIONAMIENTO LA UNION
-        <p>Descripción de tu empresa o proyecto.</p>
+    
     </section>
 
-    <section id="servicios">
-        <h2>Servicios</h2>
-        <p>Lista de servicios que ofrecemos.</p>
+    <section id="REDES">
+        <h2>INSTAGRAM: </h2>
+  
     </section>
 
-    <section id="contacto">
+    <section id="CONTACTO">
         <h2>Contacto</h2>
-        <p>Información de contacto.</p>
+    
     </section>
 
 </body>

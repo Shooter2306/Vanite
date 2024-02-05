@@ -27,6 +27,20 @@
         a:hover {
             text-decoration: underline;
         }
+
+
+    body {
+      background-image: [url('ruta/de/tu/imagen.jpg')](https://www.instagram.com/p/CqEPCXxpmL1/?utm_source=ig_web_copy_link); 
+      background-size: cover; /* Ajusta la imagen al tamaño de la ventana del navegador */
+      background-repeat: no-repeat; /* Evita que la imagen se repita */
+    }
+  </style>
+</head>
+<body>
+  <!-- Contenido de tu página -->
+</body>
+</html>
+
     </style>
 </head>
 <body>

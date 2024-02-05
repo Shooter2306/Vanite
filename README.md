@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -55,5 +55,5 @@
 
 <section id="contacto">
     <h2>Contacto</h2>
-    <p>Puedes ponerte en contacto con nosotros...</p>
+    <p>Puedes ponerte en contacto con nosotros al numero 9651174006</p>
 </section>

@@ -39,7 +39,7 @@
     <section id="direccion">
         <h2>Dirección</h2>
         <p>CALLE 3 DE MAYO FRACCIONAMIENTO LA UNION </p>
-        <a href="#direccion">Volver arriba</a>
+       
     </section>
 
     <section id="redes">
@@ -49,7 +49,7 @@
             <li><a href="https://wa.me/9651174006" target="_blank">Whatsapp</a></li>
             <li><a href="https://www.instagram.com/vanite_j?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a></li>
         </ul>
-        <a href="#redes">Volver arriba</a>
+      
     </section>
 
 </body>

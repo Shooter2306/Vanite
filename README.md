@@ -11,7 +11,7 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             background-image: url("WhatsApp Image 2024-02-05 at 6.18.26 PM.jpeg"); /* Cambia la ruta a tu imagen */
-            background-size: percentage; /* Ajusta el tamaño de la imagen al fondo */
+            background-size: origin; /* Ajusta el tamaño de la imagen al fondo */
 }
 
         }

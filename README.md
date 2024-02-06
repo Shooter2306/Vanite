@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +8,12 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-image: url("WhatsApp Image 2024-02-05 at 6.18.26 PM.jpeg"); /* Cambia la ruta a tu imagen */
+            background-size: cover; /* Ajusta el tamaño de la imagen al fondo */
+}
+
         }
 
         section {
@@ -27,11 +33,6 @@
         a:hover {
             text-decoration: underline;
         }
-
-
-   
-
-
     </style>
 </head>
 <body>
@@ -39,7 +40,6 @@
     <section id="direccion">
         <h2>Dirección</h2>
         <p>CALLE 3 DE MAYO FRACCIONAMIENTO LA UNION </p>
-       
     </section>
 
     <section id="redes">
@@ -49,7 +49,6 @@
             <li><a href="https://wa.me/9651174006" target="_blank">Whatsapp</a></li>
             <li><a href="https://www.instagram.com/vanite_j?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a></li>
         </ul>
-      
     </section>
 
 </body>

@@ -7,9 +7,9 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 60px;
+            margin: 50px;
             font-family: Arial, sans-serif;
-            margin: 60px;
+            margin: 50px;
             background-image: url("WhatsApp Image 2024-02-05 at 6.18.26 PM.jpeg"); /* Cambia la ruta a tu imagen */
             background-size: cover; /* Ajusta el tamaño de la imagen al fondo */
 }

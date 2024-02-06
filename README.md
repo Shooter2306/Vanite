@@ -45,7 +45,7 @@
     <section id="redes">
         <h2>Redes Sociales</h2>
         <ul>
-            <li><a href="https://www.facebook.com/tuusuario" target="_blank">Facebook</a></li>
+            <li><a href="" target="_blank">Facebook</a></li>
             <li><a href="https://wa.me/9651174006" target="_blank">Whatsapp</a></li>
             <li><a href="https://www.instagram.com/vanite_j?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a></li>
         </ul>
